@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EjN5CGxfRjw=",
+  "success": true,
+  "projectFilePath": "/Users/karankeskar/Projects/LoadBalancerSolution/WebsiteUpgrade/WebsiteUpgrade.csproj",
+  "expectedPackageFiles": [
+    "/Users/karankeskar/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/karankeskar/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/karankeskar/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/Users/karankeskar/.nuget/packages/yarp.reverseproxy/2.3.0/yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

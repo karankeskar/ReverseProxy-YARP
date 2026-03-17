@@ -1,0 +1,6 @@
+@WebsiteUpgrade_HostAddress = http://localhost:5042
+
+GET {{WebsiteUpgrade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
