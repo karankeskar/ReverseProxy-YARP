@@ -62,3 +62,4 @@
 /Users/karankeskar/Projects/LoadBalancerSolution/YARPGateway/obj/Debug/net10.0/YARPGateway.pdb
 /Users/karankeskar/Projects/LoadBalancerSolution/YARPGateway/obj/Debug/net10.0/YARPGateway.genruntimeconfig.cache
 /Users/karankeskar/Projects/LoadBalancerSolution/YARPGateway/obj/Debug/net10.0/ref/YARPGateway.dll
+/Users/karankeskar/Projects/LoadBalancerSolution/YARPGateway/obj/Debug/net10.0/YARPGateway.sourcelink.json

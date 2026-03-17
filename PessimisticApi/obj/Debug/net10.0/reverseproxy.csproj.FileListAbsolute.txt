@@ -64,3 +64,4 @@
 /Users/karankeskar/Projects/LoadBalancerSolution/reverseproxy/obj/Debug/net10.0/reverseproxy.pdb
 /Users/karankeskar/Projects/LoadBalancerSolution/reverseproxy/obj/Debug/net10.0/reverseproxy.genruntimeconfig.cache
 /Users/karankeskar/Projects/LoadBalancerSolution/reverseproxy/obj/Debug/net10.0/ref/reverseproxy.dll
+/Users/karankeskar/Projects/LoadBalancerSolution/reverseproxy/obj/Debug/net10.0/reverseproxy.sourcelink.json
