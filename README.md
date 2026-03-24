@@ -25,3 +25,5 @@ The core reverse proxy. All incoming requests hit this first. YARP reads the rou
 - Built with ASP.NET Core + YARP
 - Configured via `appsettings.json` (no code changes needed to update routing)
 - Supports multiple destination clusters
+
+![Architecture Screenshot](./assets/YARP-Reverse-Proxy-Architecture.png)
