@@ -1,5 +1,9 @@
 # YARP
 
+
+![Architecture Screenshot](./assets/YARP-Reverse-Proxy-Architecture.png)
+
+
 Playing around with YARP a reverse proxy toolkit by Microsoft for .NET applications, sits between client and server forwarding requests and enabling features like:
  - Request Routing
  - Load Balacing across multiple backends
